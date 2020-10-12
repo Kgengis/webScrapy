@@ -1,0 +1,13 @@
+body {
+    font-family: 'Heebo', sans-serif;
+}
+
+.card {
+    height: 400px;
+    overflow: hidden;
+}
+
+.card-image {
+    height: 250px;
+    overflow: hidden;
+}
